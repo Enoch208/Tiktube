@@ -10,7 +10,7 @@ Tiktube is intended solely for **personal use** to download videos for offline v
 
 We do **not condone or encourage** any misuse of this tool, including downloading content for **commercial use**, **distribution**, or in violation of **copyright laws**.
 
-By using Tiktube, you agree that the creators of this project are **not liable** for any misuse or legal consequences resulting from its use. Users should only download content they have the **legal right** to download and are responsible for their own actions.
+By using Tiktube, you agree that the creator of this project are **not liable** for any misuse or legal consequences resulting from its use. Users should only download content they have the **legal right** to download and are responsible for their own actions.
 
 ### Features
 - **Easy to Use**: Just input the video URL and let Tiktube do the rest!
