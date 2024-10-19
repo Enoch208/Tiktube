@@ -4,6 +4,14 @@
 #### Description:
 Welcome to **Tiktube**, your go-to video downloader for both YouTube and TikTok! With a simple and intuitive interface, Tiktube allows you to easily download your favorite videos from these popular platforms, making it easier than ever to enjoy content offline without having to go through the stress of going to website which would keep redirecting you.
 
+## ❗ **Disclaimer**
+
+Tiktube is intended solely for **personal use** to download videos for offline viewing. It is the user's responsibility to ensure compliance with the **terms of service** and **copyright policies** of the platforms from which they are downloading content. 
+
+We do **not condone or encourage** any misuse of this tool, including downloading content for **commercial use**, **distribution**, or in violation of **copyright laws**.
+
+By using Tiktube, you agree that the creators of this project are **not liable** for any misuse or legal consequences resulting from its use. Users should only download content they have the **legal right** to download and are responsible for their own actions.
+
 ### Features
 - **Easy to Use**: Just input the video URL and let Tiktube do the rest!
 - **Multi-Platform Support**: Download videos from both YouTube and TikTok effortlessly.
@@ -36,6 +44,13 @@ pyfiglet
 
 ### Known Issues
 - Due to restrictions on some platforms, you may encounter issues downloading certain videos. If you see an error message, it may be due to the need for authentication or access rights.
+
+# Tiktube
+
+Tiktube is a tool to download videos for personal offline viewing from platforms like YouTube and TikTok.
+
+
+
 
 ### Contributing
 We welcome contributions! If you have ideas for features or improvements, feel free to submit a pull request. Please make sure to keep your code clean and well-documented.
